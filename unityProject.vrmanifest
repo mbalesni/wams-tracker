@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.wamstracker.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\ib222m05\\Desktop\\Nikita's Stuff\\Wams Tracker\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Wams Tracker [Testing]"
+        }
+      }
+    }
+  ]
+}
